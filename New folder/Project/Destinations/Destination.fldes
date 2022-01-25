@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="juliamtest.zendesk.com"
+  User="MyAccountId"
+  Password=""
+  Directory="oauth/authorizations/new"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="zendesk"
+  ClickUrl="https://juliamtest.zendesk.com"
+  DefaultCategory="4406556785171"
+  DefaultSection="4406563488531"
+  PermissionGroup="2708754"
+  RemoveStale="true"
+  ChangedOnly="true"
+  PublishAfterUpload="true"
+  PreserveUnsafeHtml="true"></CatapultDestination>

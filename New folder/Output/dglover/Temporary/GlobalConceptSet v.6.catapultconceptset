@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///C:/Users/dglover/Documents/test8/New folder/Output/dglover/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts />
+  <SourceUrls>
+    <Url
+      Source="Not-Included-No-Link.htm" />
+    <Url
+      Source="Topic.htm" />
+    <Url
+      Source="Resources/2022-01-19_07h12_07.png" />
+    <Url
+      Source="Resources/2022-01-19_07h12_22.png" />
+    <Url
+      Source="Resources/image (28).png" />
+    <Url
+      Source="Resources/image (35).png" />
+    <Url
+      Source="Resources/image (36).png" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+  </SourceUrls>
+  <UsedUrls />
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>

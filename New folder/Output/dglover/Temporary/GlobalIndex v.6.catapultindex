@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/Users/dglover/Documents/test8/New folder/Output/dglover/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries />
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="Not-Included-No-Link.htm" />
+    <Url
+      Source="Topic.htm" />
+    <Url
+      Source="Resources/2022-01-19_07h12_07.png" />
+    <Url
+      Source="Resources/2022-01-19_07h12_22.png" />
+    <Url
+      Source="Resources/image (28).png" />
+    <Url
+      Source="Resources/image (35).png" />
+    <Url
+      Source="Resources/image (36).png" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+  </SourceUrls>
+  <SourceLinkSetUrls>
+    <Url
+      Source="Advanced/Index Link Sets/IndexLinkSet.flixl" />
+  </SourceLinkSetUrls>
+  <UsedUrls />
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>

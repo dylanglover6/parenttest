@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  Skin="/Project/Skins/HTML5 - Side Navigation.flskn"
+  SearchEngine="Elasticsearch"
+  ConditionTagExpression="include[Default.PrintOnly or Default.ScreenOnly]">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/sftp.fldes"
+      Publish="true"
+      SearchDestination="/Project/Destinations/el.fldes"
+      IsResource="false" />
+  </Destinations>
+  <Elasticsearch
+    Guid="a35f4f05-22c8-4baf-9f31-37bc783d61e5" />
+</CatapultTarget>
